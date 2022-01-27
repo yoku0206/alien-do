@@ -1,0 +1,146 @@
+@font-face {
+	font-family: DisposableDroidBB;
+	src: url('./resources/fonts/DisposableDroidBB/DisposableDroidBB.ttf') format("truetype");
+	font-style: normal;
+}
+
+@font-face {
+	font-family: DisposableDroidBB_Bld;
+	src: url('./resources/fonts/DisposableDroidBB/DisposableDroidBB_bld.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: DisposableDroidBB_Ital;
+	src: url('./resources/fonts/DisposableDroidBB/DisposableDroidBB_ital.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: Monoid;
+	src: url('./resources/fonts/Monoid/Monoid-Regular.ttf') format("truetype");
+	font-style: normal;
+}
+
+@font-face {
+	font-family: Monoid_Bold;
+	src: url('./resources/fonts/Monoid/Monoid-Bold.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: Monoid_Italic;
+	src: url('./resources/fonts/Monoid/Monoid-Italic.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: 'Iosevka Web Bold';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('./resources/fonts/Iosevka/woff2/iosevka-bold.woff2') format('woff2'), 
+		url('./resources/fonts/Iosevka/ttf/iosevka-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web Italic';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('./resources/fonts/Iosevka/woff2/iosevka-italic.woff2') format('woff2'), 
+		url('./resources/fonts/Iosevka/ttf/iosevka-italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web Light';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('./resources/fonts/Iosevka/woff2/iosevka-light.woff2') format('woff2'), 
+		url('./resources/fonts/Iosevka/ttf/iosevka-light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web Medium';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('./resources/fonts/Iosevka/woff2/iosevka-medium.woff2') format('woff2'), 
+		url('./resources/fonts/Iosevka/ttf/iosevka-medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('./resources/fonts/Iosevka/woff2/iosevka-regular.woff2') format('woff2'), 
+		url('./resources/fonts/Iosevka/ttf/iosevka-regular.ttf') format('truetype');
+}
+
+
+
+.Yoku-Font-DDBB {
+    font-family: DisposableDroidBB;
+    font-style: normal;
+	
+}
+
+.Yoku-Font-DDBB-B {
+    font-family: DisposableDroidBB_Bld;
+}
+
+.Yoku-Font-DDBB-I {
+    font-family: DisposableDroidBB_Ital;
+    font-style: italic;
+}
+
+.Yoku-Font-Monoid {
+    font-family: Monoid;
+    font-style: normal;
+}
+
+.Yoku-Font-Monoid-B {
+    font-family: Monoid_Bold;
+}
+
+.Yoku-Font-Monoid-I {
+    font-family: Monoid_Italic;
+}
+
+.Yoku-Font-Iosevka {
+    font-family: 'Iosevka Web';
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-M {
+    font-family: 'Iosevka Web Medium';
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-L {
+    font-family: 'Iosevka Web Light';
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-B {
+    font-family: 'Iosevka Web Bold';
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+}
+
+.Yoku-Font-Iosevka-I {
+    font-family: 'Iosevka Web Italic';
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+}

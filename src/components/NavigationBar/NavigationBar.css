@@ -1,0 +1,12 @@
+#MainNavBar>.active {
+
+    color: lightskyblue;
+    font-weight: bold;
+
+}
+
+.disabled-link {
+    
+    pointer-events: none;
+
+}
